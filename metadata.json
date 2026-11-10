@@ -1,0 +1,7 @@
+{
+  "name": "오늘의 작은 정원",
+  "description": "할 일을 완료할 때마다 사랑스러운 식물이 성장하는 감성 힐링 To-do 리스트 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
